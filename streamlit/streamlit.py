@@ -1,5 +1,5 @@
 import streamlit as st
-st.image('.../imgs/vid3.gif')
+st.image('./imgs/vid3.gif')
 st.title("US Stock Market vs Spanish Stock Market: NASDAQ 100 and IBEX 35")
 st.subheader("By: Shahbab Ahmed, Amirul Miah, and Tanbirul Miah")
 
